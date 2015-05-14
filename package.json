@@ -9,6 +9,6 @@
   "author": "Aaditya Sriram <aaditya@aadityasriram.com> (http://aadityasriram.com/)",
   "license": "ISC",
   "dependencies": {
-    "jsdom": "^4.0.0"
+    "jsdom": "^5.4.1"
   }
 }
